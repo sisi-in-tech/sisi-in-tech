@@ -1,5 +1,5 @@
 
-<img src="images/yellowheader.gif" width="90%">
+<img src="https://user-images.githubusercontent.com/101593133/182273586-4d89ce5b-9c47-4604-8733-8fce30bd9430.gif" width="100%">
 
 <p align="center">
   <a href="https://sisisoftware.netlify.app/" target="_blank">
@@ -32,7 +32,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
       <h3 align="center">odtboutique.store</h3>
         <br />
         <a target="_blank" href="https://odtboutique.herokuapp.com/">
-            <img src="images/odtbutique.gif" width="100%" alt="odtboutique"/>
+            <img src="https://user-images.githubusercontent.com/101593133/182273716-9f3238d4-750a-4c86-b58e-a9a1577cebb0.gif" width="100%" alt="odtboutique"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
       <h3 align="center">look4city.com</h3>
         <br />
       <a target="_blank" href="https://look4cityinfo.netlify.app/">
-            <img src="images/look4city.gif" width="100%"  alt="look4cityinfo"/>
+            <img src="https://user-images.githubusercontent.com/101593133/182273812-2b2a1fb7-0821-4cc8-9248-90c7943577ce.gif" width="100%"  alt="look4cityinfo"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +71,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
       <h3 align="center">sisi-software</h3>
       <br />
         <a target="_blank" href="https://sisisoftware.netlify.app/">
-          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/101593133/182273971-98d712d8-2047-44e4-b23a-02b08194c3e9.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -88,7 +88,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
       <h3 align="center">ERNO LASZLO Brand Ambassador program</h3>
         <br />
         <a target="_blank" href="https://brandambassadorlaszlo.netlify.app/">
-          <img src="images/brandambassador.gif" width="100%" alt="ERNO LASZLO"/>
+          <img src="https://user-images.githubusercontent.com/101593133/182274075-116458e8-f023-4992-bb49-94ac1d1a9bb8.gif" width="100%" alt="ERNO LASZLO"/>
         </a>
         <br />
         <p align="center">
@@ -110,7 +110,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
       <h3 align="center">Friend & Family Sales Event</h3>
         <br />
         <a target="_blank" href="https://springevent.netlify.app/">
-            <img src="images/ffevent.gif" width="100%" alt=" Friend & Family Sales Event"/>
+            <img src="https://user-images.githubusercontent.com/101593133/182274193-46626a0a-fc3e-43c1-92aa-faa5c87316c5.gif" width="100%" alt=" Friend & Family Sales Event"/>
         </a>
         <br />
         <p align="center">
@@ -128,7 +128,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
       <h3 align="center">THIS IS APOD</h3>
         <br />
       <a target="_blank" href="https://apod-page.netlify.app/">
-            <img src="images/pictureofday.gif" width="100%"  alt="Picture Of The Day"/>
+            <img src="https://user-images.githubusercontent.com/101593133/182274367-6a1e76c1-0bb2-4906-b713-99f138c7d626.gif" width="100%"  alt="Picture Of The Day"/>
         </a>
         <br />
         <p align="center">
