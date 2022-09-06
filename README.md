@@ -49,7 +49,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">look4city.com</h3>
         <br />
-      <a target="_blank" href="https://look4cityinfo.netlify.app/">
+      <a target="_blank" href="https://look4city.netlify.app/">
             <img src="https://user-images.githubusercontent.com/101593133/182273812-2b2a1fb7-0821-4cc8-9248-90c7943577ce.gif" width="100%"  alt="look4cityinfo"/>
         </a>
         <br />
@@ -58,7 +58,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
   <a href="https://github.com/look4city" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://look4cityinfo.netlify.app/" target="_blank">
+  <a href="https://look4city.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=FFBF00&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
