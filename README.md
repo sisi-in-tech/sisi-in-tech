@@ -37,7 +37,7 @@ See [my website](https://sisisoftware.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/odtboutique" target="_blank">
+  <a href="https://github.com/sisi-in-tech/ODT-boutique-project.git" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://odtboutique.herokuapp.com/" target="_blank">
